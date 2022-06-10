@@ -1,4 +1,5 @@
 # Shorts About Python
+[![author](https://img.shields.io/badge/author-lincolnneves-red.svg)](https://www.linkedin.com/in/lincolntneves/?locale=en_US) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![framework](https://img.shields.io/badge/framework-jupyternotebook-orange)](https://jupyter.org/)<br>
 Here I keep some Python notebooks with the mostly use codes on my daily as a Data Scientist.
 
 
